@@ -1,2 +1,2 @@
-# app-metadata
+# App Metadata
 Metadata for my iOS Apps
